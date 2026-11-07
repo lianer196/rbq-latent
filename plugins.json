@@ -1,0 +1,10 @@
+[
+  {
+    "id": "rbq-latent-draw",
+    "name": "Latent 生图",
+    "description": "接入 latent.moe 原生异步生图接口。支持 resolution / steps / sampler / scheduler / seed 真实透传，采样器 5 选、调度器 6 选，含参数自检。",
+    "version": "1.1.0",
+    "author": "kovak",
+    "main": "https://raw.githubusercontent.com/GITHUB_USER/GITHUB_REPO/main/latent-draw.js"
+  }
+]
